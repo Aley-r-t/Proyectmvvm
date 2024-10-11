@@ -1,4 +1,4 @@
-package com.pruebas.rodrigo.proyectmvvm.view
+package com.pruebas.rodrigo.proyectmvvm.ui.view
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
@@ -9,7 +9,7 @@ import androidx.core.view.WindowInsetsCompat
 import androidx.lifecycle.Observer
 import com.pruebas.rodrigo.proyectmvvm.R
 import com.pruebas.rodrigo.proyectmvvm.databinding.ActivityMainBinding
-import com.pruebas.rodrigo.proyectmvvm.viewmodel.QuoteViewModel
+import com.pruebas.rodrigo.proyectmvvm.ui.viewmodel.QuoteViewModel
 
 
 class MainActivity : AppCompatActivity() {

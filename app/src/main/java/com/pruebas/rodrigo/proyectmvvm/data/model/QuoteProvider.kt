@@ -1,4 +1,4 @@
-package com.pruebas.rodrigo.proyectmvvm.model
+package com.pruebas.rodrigo.proyectmvvm.data.model
 
 class QuoteProvider {
     companion object {
